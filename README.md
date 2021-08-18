@@ -5,3 +5,4 @@
 ### Massas
 
 - Espaguete à Bolonhesa
+- Lasanha à Bolonhesa
